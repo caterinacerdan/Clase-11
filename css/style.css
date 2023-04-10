@@ -1,0 +1,13 @@
+/*GENERAL*/
+ul{list-style-type: none; display: flex;}
+li{padding: 20px;}
+a{text-decoration: none; color: black; transition: 1s all;}
+a:hover{
+    color: hotpink; font-size: 20px;
+}
+/*MEDIA QUERIES*/
+/*DESKTOP*/
+@media (min-width:1024px){}
+
+/*MOBILE*/
+@media (max-width:768px){}
